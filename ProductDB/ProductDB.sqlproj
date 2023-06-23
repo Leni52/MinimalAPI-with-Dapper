@@ -70,6 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Script.PostDeployment.sql" />
-    <None Include="ProductDB_2.publish.xml" />
+    <None Include="ProductDB.publish.xml" />
+    <None Include="ProductDB_1.publish.xml" />
   </ItemGroup>
 </Project>
